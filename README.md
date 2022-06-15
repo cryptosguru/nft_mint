@@ -1,8 +1,5 @@
-# Welcome 
 
-![](https://github.com/HashLips/hashlips_nft_minting_dapp/blob/main/logo.png)
-
-# FT minting dapp 🔥
+# NFT minting dapp 🔥
 
 ![](https://github.com/HashLips/hashlips_nft_minting_dapp/blob/main/banner.png)
 
